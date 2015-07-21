@@ -1,6 +1,7 @@
 markdown: rdiscount
 permalink: /:title/
 url: http://yangfeng1990.github.com/NET/
+baseurl: /net
 name: yangcong
 author: Yonsm
 qq: xxxx
